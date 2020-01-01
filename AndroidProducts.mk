@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_YUREKA2.mk
+    $(LOCAL_DIR)/carbon_YUREKA2.mk

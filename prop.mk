@@ -202,6 +202,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
 dalvik.vm.dex2oat-filter=speed \
 dalvik.vm.image-dex2oat-filter=speed
 
+#Maintainer P
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.carbon.maintainer=ryuytyuu_greseven
+
+
 # Create Swap disk, if below sys-prop enabled & also if device has lower (< 1 GB) RAM
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.config.swap=true

@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo rr_YUREKA2-user
-add_lunch_combo rr_YUREKA2-eng
-add_lunch_combo rr_YUREKA2-userdebug
+add_lunch_combo carbon_YUREKA2-user
+add_lunch_combo carbon_YUREKA2-eng
+add_lunch_combo carbon_YUREKA2-userdebug
